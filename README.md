@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mikeecunha
 - 👀 I’m interested in finding answers to my questions so I can start programming activity.  
-- 🌱 I’m currently learning C#, Python and Java. I have some basic knowledge in c/c++, vbNet, SqlServer and MySql. 
-- 💞️ I’m looking for an internship or entry level job so I can learn more.
+- 🌱 I’m currently a trainee using AL Business Central Programming Language.
 - 📫 How to reach me migueldpgcunha@gmail.com
 
 <!---
